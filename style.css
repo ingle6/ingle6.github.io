@@ -1,31 +1,17 @@
-
 body {
  background-color: #4444;
   margin: 10% 10%;
-  
 }
-.profile {
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 h1 {
   color: #333333;
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: turquoise
- 
-  
 }
-    .exp-header {
-      border-top: 1px solid  
-  }
-
-.edu-header{
-  border-top:1px solid
-  
+img {
+  width: 100%
 }
-.skill-header{
-  border-top: 1px solid
+h2 {
+  text-align: center;
 }
