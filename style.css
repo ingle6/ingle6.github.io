@@ -3,7 +3,7 @@ body {
   border-style: dotted;
     margin: 20px;
     padding: 30px;
-  background-image: linear-gradient(to right, purple, pink, purple)
+  background-image: linear-gradient(to right, pink, white)
 }
 h1 {
   color: #333333;
@@ -15,5 +15,19 @@ h1 {
   box-shadow: 4px 4px blue;
 }
 img {
-  width: 100%
+  width: 50%;
+  margin-right: 25%;
+  margin-left:25%
+  
+  }
+
+.profiles {border: solid;
+  text-align: center;
+  font-size: 18px;
 }
+
+.extrusion {text-align: center;
+  font-size: 12px;
+    font-style:}
+.pennsylvania {text-align: center;
+    font-size: 12px}
