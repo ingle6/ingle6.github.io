@@ -3,7 +3,7 @@ body {
   border-style: dotted;
     margin: 20px;
     padding: 30px;
-  background-image: linear-gradient(to right, pink, white)
+  background-image: linear-gradient(to right, #7777, white)
 }
 h1 {
   color: #333333;
